@@ -2,6 +2,7 @@ package list;
 
 public class ArrayList<T> {
 	
+	
 	private static int CAPACITY = 10;
 	private T[] arr = (T[]) new Object[CAPACITY];
 	private int size = 0;
