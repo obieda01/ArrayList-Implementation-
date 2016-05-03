@@ -1,6 +1,7 @@
 package list;
 
 
+
 public class ArrayList<T> {
 	
 	private static int CAPACITY = 10;
